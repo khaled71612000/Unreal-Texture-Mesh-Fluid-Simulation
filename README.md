@@ -93,6 +93,16 @@ Special thanks to these authors for their detailed explanations and insights int
 
 
 
+
+## Architecture
+
+Key classes and systems (from source code):
+
+- **`FluidSimulationTarget`** (extends `TargetRules`) — real-time fluid/particle simulation — user interface and HUD rendering
+- **`FluidSimulation`** (extends `ModuleRules`) — real-time fluid/particle simulation — user interface and HUD rendering
+- **`FluidSimulationEditorTarget`** (extends `TargetRules`) — real-time fluid/particle simulation — user interface and HUD rendering
+
+
 ## Tech Stack
 
 | Technology | Role |
