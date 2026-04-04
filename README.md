@@ -6,6 +6,13 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+
+## Live Demo
+
+[![Watch Gameplay Demo](https://img.youtube.com/vi/W2d810dHGM8/maxresdefault.jpg)](https://youtu.be/W2d810dHGM8)
+
+> Click the thumbnail above to watch the full demo video.
+
 ## Overview
 
 This project implements a 2D fluid simulation using Unreal Engine. The simulation is based on the Navier-Stokes equations and provides a visual representation of fluid dynamics.
@@ -83,6 +90,17 @@ Special thanks to these authors for their detailed explanations and insights int
 ![image](https://github.com/user-attachments/assets/801d6bff-7d93-42a9-9077-81400f88625d)
 
 
+
+
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| Unreal Engine 4/5 | Game engine (Blueprints + C++) |
+| C++ | Gameplay systems, custom components |
+| HLSL / USF | Custom shader authoring |
+| Git LFS | Large asset version control |
 
 
 ## Getting Started
